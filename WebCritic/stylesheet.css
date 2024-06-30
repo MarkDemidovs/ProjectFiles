@@ -1,0 +1,374 @@
+body {
+    margin: 0
+}
+
+#navbar{
+background-color: black;
+width: 100%;
+height: 81px;
+overflow: hidden;
+}
+
+.navbarcontent {
+    color: white;
+    margin-left:50px;
+    padding-top: 5px;
+    display: inline;
+    float: left;
+}
+
+#titlenavbar {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    padding-top: 10px;
+    padding-left: 100px;
+    
+}
+#search {
+    margin-top: 25px;
+    padding-left: 250px;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: black;
+    border-color: white;
+    height: 30px;
+
+}
+
+#search::placeholder {
+    color: white;
+
+}
+
+#searchglass {
+    margin-top: 35px;
+    margin-left: 10px;
+    background-color: rgb(8, 8, 8);
+    cursor:pointer;
+}
+#searchbar {
+        border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
+.SubButton{
+    padding-left: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+    padding-right: 30px;
+}
+#GamesButton {
+    text-decoration: underline;
+}
+
+#signinbutton {
+    width: 65px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 50;
+    cursor: pointer
+}
+
+
+
+
+/* Main Article */
+
+#gameTitle {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#gameTitle:hover {
+    color:#FFCE35;
+    cursor: pointer;
+}
+#gamePlatform {
+    font-family: 'Quicksand', sans-serif;
+    color: gray;
+    padding-top: 2px;
+    padding-left: 2px;
+    
+}
+#gamePlatform:hover {
+    color:#FFCE35;
+    cursor: pointer;
+}
+.line1 {
+    display: inline;
+}
+
+#publisher {
+    display:inline;
+    font-family: 'Quicksand', sans-serif;
+}
+#publisher:hover {
+    color:#FFCE35;
+    cursor: pointer;
+}
+#divider {
+    display:inline;
+    padding-left:5px;
+    padding-right: 5px;
+    font-family: 'Quicksand', sans-serif;
+}
+#releaseDate {
+    display:inline;
+    font-family: 'Quicksand', sans-serif;
+}
+#dateRelease {
+    display: inline;
+    font-family: 'Quicksand', sans-serif;
+    font-size: smaller;
+}
+.line3 {
+    display: inline;
+    font-style: 300;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    
+}
+.line3:hover {
+    color:#FFCE35;
+    cursor: pointer;
+}
+.socialMedia {
+    display: inline;
+    
+    
+}
+#facebook{
+    display: inline;
+    cursor: pointer;
+    margin-left: 250px;
+}
+#twitter{
+    display: inline;
+    cursor: pointer;
+}
+#reddit{
+   display: inline;
+    cursor: pointer;
+}
+#pinterest{
+    display: inline;
+    cursor: pointer;
+}
+
+.optionButton {
+    color: white;
+    background-color: black;
+    border-radius: 0;
+    border: none;
+    width: 120px;
+    height: 30px;
+    display: inline;
+    cursor: pointer;
+}
+#SelectedButtonOption {
+    background-color: lightgray;
+    color: black;
+    cursor:initial
+}
+#CRButton:hover {
+    color: #FFCE35;
+}
+#URButton:hover {
+    color: #FFCE35;
+}
+#DCButton:hover {
+    color: #FFCE35;
+}
+#TrVButton:hover {
+    color: #FFCE35;
+}
+#gamecover {
+    padding-top: 15px;
+    display: inline;
+}
+
+.metascore {
+    background-color: #6c3;
+    width: 70px;
+    height: 70px;
+    border-style: solid;
+    border-radius: 6px;
+    border-width: 0px;
+    border-color:black;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 50px;
+    display: inline-block;
+    transform: translateY(-83px) translateX(20px);
+}
+#webscorelabel{
+    display: inline-block;
+    transform: translateY(-115px) translateX(30px);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 800;
+    font-size: medium;
+}
+#ratingWord {
+    display: inline-block;
+    transform: translateY(-84px) translateX(-48px);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+#fscr {
+    font-weight: 700;
+    
+}
+
+#fscr:hover {
+    color:#FFCE35;
+    cursor: pointer;
+}
+#whatsthis {
+    display: inline-block;
+    transform: translateY(-60px) translateX(-190px);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+#whatsthis:hover {
+    color:#FFCE35;
+    cursor: pointer;
+}
+#summary {
+    display: inline-block;
+    transform: translateY(150px) translateX(-255px);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+#summarysummary {
+    font-weight: 700;
+}
+
+#BuyNowText {
+    display: inline-block;
+    transform: translateY(180px) translateX(-544px);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+}
+#BuyNowText:hover {
+    color: #FFCE35;
+}
+.userscore{
+    background-color: #6c3;
+    width: 45px;
+    height: 45px;
+    border-width: 1px;
+    border-radius: 80px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 30px;
+    transform: translateY(-170px) translateX(500px);
+
+}
+
+#userscorelabel{
+    display: inline-block;
+    transform: translateY(-250px) translateX(560px);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 800;
+    font-size: medium;
+}
+#uslr { 
+    font-family: 'Quicksand', sans-serif;
+    transform: translateY(-310px) translateX(560px);
+    font-weight: 500;
+}
+#uslrr {
+    font-weight: 700;
+  
+}
+#uslrr:hover {
+    color:#FFCE35;
+    font-weight: 700;
+    cursor: pointer;
+}
+#developer {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    transform: translateY(-310px) translateX(560px);
+
+}
+
+#rnorth:hover {
+    color:#FFCE35;
+    cursor: pointer;
+}
+#generes{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    transform: translateY(-330px) translateX(560px);
+
+}
+#genere{
+    font-weight: 700;
+}
+
+#hop{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    transform: translateY(-345px) translateX(560px);
+
+}
+#hops{
+    font-weight: 700;
+}
+#ch {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    transform: translateY(-360px) translateX(560px);
+}
+#chs:hover {
+    color:#FFCE35;
+    cursor: pointer;
+}
+
+#rat {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    transform: translateY(-370px) translateX(560px);
+}
+#rats {
+    font-weight: 700;
+}
+#MDAC {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    transform: translateY(-380px) translateX(560px);
+}
+#MDAC:hover {
+    cursor: pointer;
+    color:#FFCE35
+}
+
+main {
+    transform: translateY(25px) translateX(260px);
+}
+
+footer {
+    text-align: center;
+    background-color:black;
+    text-decoration: none;
+    color: white;
+}
+.footertext {
+    color: white;
+    text-decoration: none;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}

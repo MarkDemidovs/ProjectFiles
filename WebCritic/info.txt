@@ -1,0 +1,21 @@
+Hello there! This is Markuss Demidov, and i am writing this to myself, or any other future readers that might see this.
+I just completed the HTML/CSS series from BroCode, and now, i can count myself as a person who "KNOWS" Html/Css.
+While, yes, i had known HTML since i was 9,  and i've used it countless times to conjure my ideas for websites. And,
+i also had used CSS quite a few times, but i havent really "gotten into" CSS. I always used inline, for every tag.
+
+I am very happy that now, i have officialy completed HTML/CSS. Now, i am working on my "Graduation" projects, which will
+be a recreation of a MetaCritic page.
+I had chosen it, since i though it would be a good excercise/project for me to test my skills.
+
+What about the future? Next, on my pathway, is learning JavaScript, so i an make websites functional. The JavaScript
+tutorial is double the lenght, but, thoughfully so, i will be able to count myself as a "Web Developer"
+I just though of something, and its that i will be able to become a freelancer. But, i won't be doing that after
+learning javascript. Why? Well, it's because i will also learn "React" and "React Native", so i can become a Front-End
+web developer. After that? I will put my web development journey on pause, and learn c, c++, and c#, re-learn python, and
+learn its automation, but i hope that i will learn backend too, so i can become a full-stack developer.
+
+Thank you for reading this. I may update this after creating my project.
+
+UPDATE:
+Hello, i am back, i pulled an all nighter to finish this project! This is currently (20.06.2023) the BEST and the most BEAUTIFUL
+website i have ever made. Goodbye! I hope to see you soon, reader, or myself.
