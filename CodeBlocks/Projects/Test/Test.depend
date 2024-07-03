@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708772085 source:c:\users\mark\desktop\programming\codeblocks\projects\test\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<algorithm>
+

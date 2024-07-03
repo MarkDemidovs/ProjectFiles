@@ -1,0 +1,17 @@
+﻿  3DGraphicsRenderer.cpp
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\olcConsoleGameEngine.h(759,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3DGraphicsRenderer.cpp')
+  
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\olcConsoleGameEngine.h(1099,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file '3DGraphicsRenderer.cpp')
+  
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\olcConsoleGameEngine.h(1196,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+  (compiling source file '3DGraphicsRenderer.cpp')
+  
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\3DGraphicsRenderer.cpp(157,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\3DGraphicsRenderer.cpp(157,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\3DGraphicsRenderer.cpp(156,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\3DGraphicsRenderer.cpp(156,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\3DGraphicsRenderer.cpp(155,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\3DGraphicsRenderer.cpp(155,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3DGraphicsRenderer.vcxproj -> C:\Users\Mark\Desktop\Programming\CPP\3DGraphicsRenderer\x64\Debug\3DGraphicsRenderer.exe
